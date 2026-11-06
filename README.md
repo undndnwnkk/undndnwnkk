@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  🇬🇧 English · <a href="README.ru.md">🇷🇺 Русский</a>
+  🇬🇧 English · 🇷🇺 Русский
 </p>
 
 <p align="center">
@@ -63,9 +63,3 @@ Product team of 7–8 people. Owned the KPI, notifications, schedule and browser
 - **VK Education**: Algorithms and Data Structures · Web Services Development in Golang · DevOps/SRE Engineer
 
 **Languages:** Russian (native), English (B2)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=undndnwnkk&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub stats">
-</p>
